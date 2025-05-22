@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+build/
+.env
+.myenv
+*.eslintcache
+*.cache
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
